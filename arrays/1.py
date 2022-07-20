@@ -1,5 +1,5 @@
 import numpy as np
-a = np.array([1,2,3,4])
+a = np.array([3,6,9,12])
 
 def show_elements(Mac):
     for sl in Mac:
